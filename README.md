@@ -18,3 +18,8 @@ It's actually very straightforward. When we write a word in Wordle and submit th
 ## Contribution
 
 If you think there is a bug or something you can optimize feel free to make a pull request. And if you love the script give it a star 😉
+fjsjfls
+fjsjflwe
+fjsjflwe
+fjlsjfwesf
+fjsjw
